@@ -1,8 +1,8 @@
 
-## Установка
+## Installation 
 
 ```bash
 npm install
 npm run start
 ```
-открыть в браузере http://localhost:3000/
+Open in browser http://localhost:3000/
